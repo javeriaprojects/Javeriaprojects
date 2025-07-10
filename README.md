@@ -30,9 +30,9 @@ Welcome to my GitHub space! I'm a web developer passionate about writing clean c
 
 ---
 
-![Javeria's GitHub Stats](https://github-readme-stats.vercel.app/api?username=javeria123&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=javeria123&layout=compact&theme=radical)
-![Visitor Count](https://komarev.com/ghpvc/?username=javeria123&style=for-the-badge)
+![Javeria's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Javeriaprojects&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Javeriaprojects&layout=compact&theme=radical)
+![Visitor Count](https://komarev.com/ghpvc/?username=Javeriaprojects&style=for-the-badge)
 
 ---
 
