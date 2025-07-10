@@ -30,6 +30,7 @@ Welcome to my GitHub space! I'm a web developer passionate about writing clean c
 
 ---
 
+![GitHub Streak](https://streak-stats.demolab.com?user=Javeriaprojects&theme=radical)
 ![Javeria's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Javeriaprojects&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Javeriaprojects&layout=compact&theme=radical)
 ![Visitor Count](https://komarev.com/ghpvc/?username=Javeriaprojects&style=for-the-badge)
